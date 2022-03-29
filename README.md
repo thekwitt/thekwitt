@@ -8,7 +8,7 @@
 
 ## What I've worked with
 
-**💬 Languages I've Worked With**
+**💬 Languages**
 
 <code><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></code>
 <code><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></code>
